@@ -1,0 +1,24 @@
+[My Computer]
+<<<<<<< .mine
+<<<<<<< .mine
+My Computer = "127.0.0.1"
+||||||| .r3342
+<<<<<<< .mine
+My Computer = "127.0.0.1"
+||||||| .r3334
+My Computer = "10.26.14.140"
+=======
+My Computer = "192.168.1.137"
+>>>>>>> .r3340
+=======
+My Computer = "192.168.254.43"
+||||||| .r3365
+My Computer = "192.168.254.43"
+=======
+My Computer = "127.0.0.1"
+>>>>>>> .r3366
+>>>>>>> .r3365
+
+[Target]
+Target = "roboRIO-2614-FRC.local"
+

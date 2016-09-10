@@ -1,0 +1,7 @@
+iuuejukik7ikukeuytvcxvbnxzfgu198239dhishbiaus9uasbciaywg
+<SMOOTH_LINE>
+(99,276)_{3.141592653589793}
+(301,276)_{3.141592653589793}
+(670,377)_{4.101523742186674}
+true
+</SMOOTH_LINE>

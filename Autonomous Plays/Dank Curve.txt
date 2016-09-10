@@ -1,0 +1,12 @@
+iuuejukik7ikukeuytvcxvbnxzfgu198239dhishbiaus9uasbciaywg
+<STRAIGHT LINE>
+(110,458)
+(101,249)
+true
+</STRAIGHT LINE>
+<SMOOTH_LINE>
+(101,249)_{0.0}
+(383,458)_{0.0}
+(767,458)_{0.0}
+false
+</SMOOTH_LINE>
